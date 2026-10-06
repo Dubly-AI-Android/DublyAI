@@ -25,7 +25,7 @@
 
 ### Dubly AI v1.2.33
 
-**[⬇️ Download the Latest APK](https://github.com/Dubly-AI-Android/DublyAI/releases/latest/download/DublyAI-v1.2.32.apk)**
+**[⬇️ Download the Latest APK All versions ](https://github.com/Dubly-AI-Android/DublyAI/releases)**
 
 **[View the Latest Release](https://github.com/Dubly-AI-Android/DublyAI/releases/latest)**
 
