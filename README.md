@@ -23,7 +23,7 @@
 
 ## 📥 Download
 
-### Dubly AI v1.2.33
+### Dubly AI v1.2.34
 
 **[⬇️ Download the Latest APK](https://github.com/Dubly-AI-Android/DublyAI/releases/latest/download/DublyAI-v1.2.32.apk)**
 
@@ -228,7 +228,7 @@ Try changing the **Dub Output Route** in Settings. Android devices and manufactu
 
 ## 📦 Release Information
 
-### v1.2.33
+### v1.2.34
 
 - Improved translated-text readability.
 - Increased translation text size.
