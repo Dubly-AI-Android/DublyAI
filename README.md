@@ -137,12 +137,12 @@ For the best experience:
 Dubly AI supports a multilingual experience including languages such as:
 
 - English
-- Persian
 - French
 - German
 - Spanish
 - Chinese
 - Arabic
+- Persian  
 - Japanese
 - Korean
 - Portuguese
